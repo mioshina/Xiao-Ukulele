@@ -21,14 +21,7 @@
 
 ![Xiaouke-B_Cu.png](Xiaouke-B_Cu.png)
 
-| Item | sell price |
-| --- | --- |
-| PCB board  | 150 Yuan |
-| smd components (diodes and resistor) for the kit | 10 Yuan |
-| switches X 9  | 20 Yuan |
-| XIAO RP2040 (code for project Preloaded) | 30 Yuan |
-| Full Kit (not assembled) | 200 Yuan |
-| Assembled Full Kit | 250 Yuan |
+
 
 HOW TO USE.
 

@@ -46,9 +46,13 @@ websynth
     1. make sure it is the correct version depending on your version of circuitpython
     
     [CircuitPython - Libraries](https://circuitpython.org/libraries)
-    
-5. open Thonny
-6. try out the debug code to see if your keys and touch pad all work properly.
+5. Drag and drop adafruit_hid folder, and adafruit_midi folder from Adafruit library bundle to the library folder in your Xiao RP2040
+   also, drag and drop the neopixel.mpy file in the library for your LED party.    
+6. open Thonny
+7. try out the debug code to see if your keys and touch pad all work properly.
+8. Once your solder debug code is working, you can try out other codes for your testing.
+9. if you have a MAC, you can try MIDI with garageband. or you can use WebSynth on Windows.
+(https://synth.playtronica.com/)
 
 ### Code: debug soldering input output check
 
